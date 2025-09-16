@@ -20,7 +20,7 @@
 - **Moodle / Totara** LMS deployment, plug-in dev & automation
 - **Linux Administration** (Ubuntu, AlmaLinux) – web, 
 - **Python scripting**, **vulnerability assessment**, 
-- **Apache / NGINX**, **MySQL / PostgreSQL**, **Git**, 
+- **Apache / NGINX**,**MySQL / PostgreSQL**, **Git**,
 
 ---
 
@@ -32,8 +32,6 @@
 <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
 
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a>
-
-<a href="https://www.nginx.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-original.svg" width="40" height="40" alt="NGINX"/></a>
 
 <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
 
@@ -66,11 +64,10 @@
 | Project | Repo | Description |
 |---------|------|-------------|
 | **home-soc-lab** | [🔗 repo](https://github.com/maysaraadmin/home-soc-lab) | Personal SOC lab-in-a-box – Suricata, Wazuh & ELK on Docker-compose |
-| **security.ops.center** | [🔗 repo](https://github.com/maysaraadmin/security.ops.center) | Ansible playbooks to harden Ubuntu 22.04 LTS per CIS Benchmark |
-| **sysom.viewer** | [🔗 repo](https://github.com/maysaraadmin/sysom.viewer) | Real-time Linux performance dashboard (Python + Flask + Chart.js) |
+| **security.ops.center** | [🔗 repo](https://github.com/maysaraadmin/security.ops.center) |  python implement of most common software in security operations center  |
+| **sysom.viewer** | [🔗 repo](https://github.com/maysaraadmin/sysom.viewer) | GUI viewer for sysmon |
  
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=maysaraadmin&show_icons=true&locale=en&layout=compact)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maysaraadmin&show_icons=true&locale=en)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=maysaraadmin)
