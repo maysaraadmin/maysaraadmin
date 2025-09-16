@@ -14,13 +14,12 @@
 ## 🚀 What I'm Doing Now
 - Working as a **Security Operations Center (SOC) Analyst**
 - learning management system administrator 
-- 
 
 ## 💬 Ask Me About
 - **Moodle / Totara** LMS deployment, plug-in dev & automation
 - **Linux Administration** (Ubuntu, AlmaLinux) – web, 
 - **Python scripting**, **vulnerability assessment**, 
-- **Apache / NGINX**,**MySQL / PostgreSQL**, **Git**,
+- **Apache / NGINX**,**MySQL / PostgreSQL**, **Git**,**Wazuh**
 
 ---
 
