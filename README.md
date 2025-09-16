@@ -26,10 +26,15 @@
 
 ## 🛠️ Tech Toolbelt
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+
 <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
+
 <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
+
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a>
+
 <a href="https://www.nginx.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-original.svg" width="40" height="40" alt="NGINX"/></a>
+
 <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
 
 
@@ -53,14 +58,17 @@
 **Bachelor of Science in Technology** – The Future University, Sudan (2017)
 
 ---
+ 
 
 ## 📂 Portfolio & Projects
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maysaraadmin)  
-- **moodle-enrol_autoenrol** – automatic cohort enrolment plug-in  
-- **ubuntu-hardening** – CIS-based Bash hardening script  
-- **lms-healthcheck** – Python CLI to audit Moodle/Totara instances
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maysaraadmin)
 
----
+| Project | Repo | Description |
+|---------|------|-------------|
+| **home-soc-lab** | [🔗 repo](https://github.com/maysaraadmin/home-soc-lab) | Personal SOC lab-in-a-box – Suricata, Wazuh & ELK on Docker-compose |
+| **security.ops.center** | [🔗 repo](https://github.com/maysaraadmin/security.ops.center) | Ansible playbooks to harden Ubuntu 22.04 LTS per CIS Benchmark |
+| **sysom.viewer** | [🔗 repo](https://github.com/maysaraadmin/sysom.viewer) | Real-time Linux performance dashboard (Python + Flask + Chart.js) |
+ 
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=maysaraadmin&show_icons=true&locale=en&layout=compact)  
