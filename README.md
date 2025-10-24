@@ -2,7 +2,7 @@
 **SOC Analyst | LMS Admin (Moodle / Totara) | Linux SysAdmin | Python & Cyber-Security Enthusiast**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maysaraadmin&label=Profile%20views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maysaranalyst)
+
 
 📍 Dubai, UAE  
 📧 maysara.mubarak.mohamed@gmail.com  
