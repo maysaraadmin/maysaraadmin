@@ -75,4 +75,6 @@
 ---
 
 ## 🤝 Connect With Me
-&lt;a href="https://www.linkedin.com/in/maysaranalyst" target="_blank"&gt;&lt;img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/&gt;&lt;/a&gt;
+<a href="https://www.linkedin.com/in/maysaranalyst" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
