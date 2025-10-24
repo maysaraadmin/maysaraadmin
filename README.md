@@ -26,14 +26,13 @@
 
 ---
 
-## 🛠️ Tech Toolbelt
-&lt;!-- core only --&gt;
-&lt;a href="https://www.python.org" target="_blank"&gt;&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/&gt;&lt;/a&gt;
-&lt;a href="https://www.linux.org" target="_blank"&gt;&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/&gt;&lt;/a&gt;
-&lt;a href="https://www.mysql.com" target="_blank"&gt;&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/&gt;&lt;/a&gt;
-&lt;a href="https://www.postgresql.org" target="_blank"&gt;&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/&gt;&lt;/a&gt;
-&lt;a href="https://git-scm.com" target="_blank"&gt;&lt;img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/&gt;&lt;/a&gt;
 
+## 🛠️ Tech Toolbelt
+<a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+<a href="https://www.linux.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
+<a href="https://www.mysql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a>
+<a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>
 ---
 
 ## 📄 Career Snapshot
