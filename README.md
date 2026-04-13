@@ -1,57 +1,49 @@
 # 👋 Hi, I’m Maysara Mohamed  
-**SOC Analyst | LMS Admin (Moodle / Totara) | Linux SysAdmin | Python & Cyber-Security Enthusiast**
+**IT Support Consultant | Freelance Developer | Linux & Troubleshooting Enthusiast**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maysaraadmin&label=Profile%20views&color=0e75b6&style=flat)
 
-
-📍 Dubai, UAE  
+📍 Sharjah, UAE  
 📧 maysara.mubarak.mohamed@gmail.com  
-📱 +971 55 912 7559  
-🌍 Sudanese  
-🗣️ Arabic (Native), English (Professional), Turkish (Basic)
+📱 +971 52 972 7064  
+🗣️ Arabic (Native), English (Professional Proficiency)
 
 ---
 
 ## 🚀 What I’m Doing Now
-- Working as a **Security Operations Center (SOC) Analyst**  
-- Managing **Moodle / Totara** LMS deployments and automation
+- Providing remote IT support and freelance development
+- Building custom plugins and managing system upgrades with minimal disruption
 
 ---
 
 ## 💬 Ask Me About
-- **Moodle / Totara** deployment, plug-in development, SCORM packaging  
-- **Linux Administration** (Ubuntu, AlmaLinux) – web, DB, hardening  
-- **Python scripting**, vulnerability assessment, SIEM rules  
-- **Apache / NGINX**, **MySQL / PostgreSQL**, **Git**, **Wazuh**
+- Technical troubleshooting & remote support
+- Linux system administration (Ubuntu, AlmaLinux)
+- Plugin development and system customization
+- Translating technical concepts for non‑technical users
 
 ---
-
 
 ## 🛠️ Tech Toolbelt
 <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
 <a href="https://www.mysql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a>
 <a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>
+
 ---
 
-## 📄 Career Snapshot
+## 📄 Professional Experience
 
-| Role (Company) | Period | Key Highlights |
-|---|---|---|
-| **Freelance LMS Admin / Moodle Developer** (Freelancer.com) | Nov 2024 – Jul 2025 | Custom plug-ins, secure upgrades, SCORM packaging |
-| **Freelance Moodle Developer** (Self-employed) | Jan – Apr 2025 | Bespoke plug-ins, PHP & MySQL tuning |
-| **LMS Administrator** (iLearn, Dubai) | Apr – Sep 2024 | Totara LMS, automated user & certificate workflows |
-| **System Administrator** (MSC for IT, Sudan) | Feb – Dec 2022 | Moodle hardening, backups, monitoring scripts |
-| **Technical Support Engineer** (MSC for IT) | Oct 2021 – Feb 2022 | 2nd-line LMS support, training, bug triage |
-| **System Administrator** (Sudaknowledge) | Sep 2017 – Jul 2021 | Full LAMP/LEMP stack, 99.9 % uptime, Wiki & WP farms |
-| **Security Researcher** (Bugcrowd & HackerOne) | Oct 2018 – Oct 2019 | Validated reports, CVSS scoring, repro steps |
-| **Information Security Trainee** (EBS, Sudan) | May – Aug 2019 | ISO 27001 gap-analysis, awareness sessions |
+| Role | Period | Key Highlights |
+|------|--------|----------------|
+| **Freelance Developer** (Self‑employed) | Jan 2025 – Apr 2025 | Developed and customized plugins; managed system upgrades with minimal disruption |
+| **Freelance IT Support Consultant** (Self‑employed) | Nov 2024 – Jul 2025 | Provided remote technical support; created clear documentation for users |
 
 ---
 
 ## 🎓 Education
-**Bachelor of Science in Technology** – The Future University, Sudan (2017)
+**Bachelor of Information Technology** – The Future University, Khartoum, Sudan  
+**GPA:** 3.28/4
 
 ---
 
@@ -61,7 +53,7 @@
 | Project | Repo | Description |
 |---------|------|-------------|
 | **home-soc-lab** | [🔗 repo](https://github.com/maysaraadmin/home-soc-lab) | Personal SOC lab – Suricata, Wazuh & ELK on Docker Compose |
-| **security.ops.center** | [🔗 repo](https://github.com/maysaraadmin/security.ops.center) | Python re-implementation of common SOC tooling |
+| **security.ops.center** | [🔗 repo](https://github.com/maysaraadmin/security.ops.center) | Python re‑implementation of common SOC tooling |
 | **sysom.viewer** | [🔗 repo](https://github.com/maysaraadmin/sysom.viewer) | Simple GUI viewer for Sysmon logs |
 
 ---
